@@ -1,5 +1,5 @@
 # Loan Defaulter Machine Learning Classification [Python, scikit-learn, Applied Machine Learning]
-[View JupyterNoteBook](https://nbviewer.org/github/YSPAttavit/AI200_ML_Classification_Project_LendingClubLoanDefaultersPrediction/blob/main/AI200_LendingClub_Loan_Defaulters_ML_Classification_Project_Github.ipynb)  |  [GitHub Repository Link](https://github.com/YSPAttavit/AI200_ML_Classification_Project_LendingClubLoanDefaultersPrediction)
+[View JupyterNoteBook](https://nbviewer.org/github/YSPAttavit/AI200_ML_Classification_Project_LendingClubLoanDefaultersPrediction/blob/94c99e3f92abcd17faa09d49f480b260618304fc/AI200_LendingClub_Loan_Defaulters_ML_Classification_Project_Github.ipynb)  |  [GitHub Repository Link](https://github.com/YSPAttavit/AI200_ML_Classification_Project_LendingClubLoanDefaultersPrediction)
 
 ## Background
 Business Case: Develop a Machine Learning model for the company to identify if the loan applicant is likely or unlikely to default on the loan, thereby assisting in the company's portfolio & risk assessment capabilities
