@@ -8,7 +8,7 @@ Exploratory Data Analysis [EDA], feature-engineering & model testing was conduct
 
 The final model, along with the feature-engineered dataframe, acheived a  **~90% predictive AUC score**  after cross-validation via the Kaggle platform, thus demonstrating a strong ablity to discriminate between loan applicants whom are likely or unlikely to default on loans.
 
-![ROC_AUC_Curve_MultipleFolds_BestModel](/data/image/ROC_Curves_for_CatBoostClassifier_Model_(Each_Fold).png)
+![ROC_AUC_Curve_MultipleFolds_BestModel](data/image/ROC_Curves_for_CatBoostClassifier_Model_(Each_Fold).png)
 
 ## Overview of steps undertaken for the project
 ### 1) Data Preparation
