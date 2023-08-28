@@ -48,7 +48,7 @@ In this section, the feature-engineered train_df was tested with both Non-Ensemb
 
 The baseline CatBoost model had the highest average AUC score amongst all other models tested. Following that, I proceeded to apply hyperparameter tuning of the model via GridSearchCV.
 
-### 5) Generate and Export Predictions from your Final Model
+### 5) Generate and Export Predictions from Final Model
 The final chosen model & parameters was retrained & fitted using all *316824* rows of the entire training set (instead of just on X_train, y_train with train_test_split).
 
 All feature-engineering techniques that was previously applied to train_df was then applied to test_df.
