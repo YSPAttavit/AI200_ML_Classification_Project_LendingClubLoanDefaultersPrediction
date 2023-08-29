@@ -1,4 +1,6 @@
 # Loan Defaulter Machine Learning Classification *<font size="5"> [Python, scikit-learn, Applied Machine Learning] </font>*
+[Portfolio Link](https://yattavit.github.io/)
+
 [View JupyterNoteBook](https://nbviewer.org/github/YSPAttavit/AI200_ML_Classification_Project_LendingClubLoanDefaultersPrediction/blob/94c99e3f92abcd17faa09d49f480b260618304fc/AI200_LendingClub_Loan_Defaulters_ML_Classification_Project_Github.ipynb)  |  [GitHub Repository Link](https://github.com/YSPAttavit/AI200_ML_Classification_Project_LendingClubLoanDefaultersPrediction)
 
 ## Background
